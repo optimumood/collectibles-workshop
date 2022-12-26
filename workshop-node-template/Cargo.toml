@@ -3,6 +3,7 @@ members = [
     "node",
     "pallets/template",
     "runtime",
+    "pallets/collectibles",
 ]
 [profile.release]
 panic = "unwind"
